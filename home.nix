@@ -27,6 +27,8 @@
             "sh.ppy.osu"
             "app.zen_browser.zen"
             "org.vinegarhq.Sober"
+            "com.rtosta.zapzap"
+            "com.github.tchx84.Flatseal"
         ];
         uninstallUnmanaged = true;
         update.onActivation = false;
