@@ -7,7 +7,7 @@ como usarlo:
 
 sudo mv /etc/nixos/configuration.nix /etc/nixos/configuration.nix.bak
 
-ln -s "$PWD/configuration.nix" /etc/nixos/configuration.nix
+ln -s ~/l1ghtr-prts-dotfiles/comfiguration.nix /etc/nixos/configuration.nix
 
 2 - Despues de esto ejecuta, despues de ejecutarlo, reinicia el pc:
 nixos-rebuild switch
